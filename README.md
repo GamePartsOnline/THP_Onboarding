@@ -1,1 +1,26 @@
-# THP_Onboarding
+# THP Onboarding — My First Web Pages
+
+A hands-on project built during the **The Hacking Project (THP)** bootcamp to master the fundamentals of modern **Front-end development** using semantic HTML5 and clean CSS3 layout techniques.
+
+## 📝 Project Overview
+
+The objective of this project is to understand the impact of CSS on usability and design by building three iterations of the same content based on the famous internet brutalist design movement:
+
+1. **MotherFuckingWebsite:** The core skeleton. Pure, unstyled semantic HTML utilizing default browser behaviors and fonts.
+2. **BetterMotherFuckingWebsite:** Introducing basic typography corrections. Utilizing exactly 7 lines of smart CSS to fix 90% of web design readability issues (limiting widths, adjusting line height, softening contrasts).
+3. **BestMotherFuckingWebsite:** A modern, premium-feeling layout using contemporary layout architectures (Flexbox and CSS Grid), fluid typography, and clean structured containers—all without loading heavy framework libraries or JavaScript.
+
+---
+
+## 📁 Repository Structure
+
+```text
+📁 thp-premiere-page-web/
+├── 📁 motherfuckingwebsite/
+│   └── 📄 index.html
+├── 📁 bettermotherfuckingwebsite/
+│   ├── 📄 index.html
+│   └── 📄 style.css
+└── 📁 bestmotherfuckingwebsite/
+    ├── 📄 index.html
+    └── 📄 style.css
